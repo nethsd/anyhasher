@@ -7,4 +7,4 @@ jobs:
   announce:
     runs-on: ubuntu-latest
     steps:
-      - run: echo Need to hook up slack here!
+      - run: echo Need to hook up slack here later!
